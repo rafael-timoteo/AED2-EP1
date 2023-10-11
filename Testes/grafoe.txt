@@ -1,0 +1,7 @@
+5
+plantas:gafanhotos;passaros;
+gafanhotos:aranhas;passaros;
+passaros:cobras;
+aranhas:cobras;passaros;
+cobras:aranhas;
+1
